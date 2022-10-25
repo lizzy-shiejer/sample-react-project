@@ -1,3 +1,6 @@
+# About the project
+Nothing fancy just created a sample app to play around with to get more understanding of some of react concepts
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
